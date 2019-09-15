@@ -1,0 +1,1 @@
+{"question_token_to_idx": {"<NULL>": 0, "<START>": 1, "<END>": 2}, "program_token_to_idx": {"<NULL>": 0, "<START>": 1, "<END>": 2, "filter_shape[sphere]": 3, "scene": 4, "filter_color[red]": 5, "relate[far]": 6, "filter_shape[cylinder]": 7, "unique": 8, "filter_color[cyan]": 9, "relate[close]": 10, "filter_shape[cube]": 11}, "answer_token_to_idx": {}}
